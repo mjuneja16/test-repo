@@ -1,0 +1,26 @@
+diff --git a/myDF.diff b/myDF.diff
+new file mode 100644
+index 0000000..985730e
+--- /dev/null
++++ b/myDF.diff
+@@ -0,0 +1,8 @@
++diff --git a/testfile2.md b/testfile2.md
++index 81f0182..5ad9dba 100644
++--- a/testfile2.md
+++++ b/testfile2.md
++@@ -1 +1,3 @@
++ ###This is a tertiary heading!
+++
+++Testing!
+diff --git a/testfile2.md b/testfile2.md
+index 81f0182..a383473 100644
+--- a/testfile2.md
++++ b/testfile2.md
+@@ -1 +1,7 @@
+ ###This is a tertiary heading!
++
++Testing!
++1!
++2!
++3!
++Hello!
