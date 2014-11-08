@@ -1,3 +1,0 @@
-##Rajasthan Royals
-
-* Shane Watson
